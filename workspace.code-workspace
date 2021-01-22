@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "docs",
+			"path": "docs"
+		},
+		{
+			"name": "profile-app",
+			"path": "profile-app"
+		}
+	],
+	"settings": {}
+}
